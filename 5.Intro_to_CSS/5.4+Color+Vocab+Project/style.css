@@ -1,0 +1,44 @@
+head {
+    color: grey;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: grey;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+img {
+    size: 200px;
+}
+
+.color-title {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
